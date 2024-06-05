@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>TryHackMe Editor</title>
+    </head>
+    <body>
+        <div id="demo">Hi there!</div>
+        <button onclick='document.getElementById("demo").innerHTML = "Button Clicked";'>Click Me!</button>
+        <script type="text/javascript">
+            // add your JavaScript here
+        </script>
+    </body>
+</html>
